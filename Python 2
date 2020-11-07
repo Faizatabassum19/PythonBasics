@@ -1,0 +1,6 @@
+pnum=0
+
+for i in range(10):
+    s=pnum+i
+    print('Current Number ',i,'Previous Number ',pnum,'Sum: ',s)
+    pnum=i
