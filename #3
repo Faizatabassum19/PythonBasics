@@ -1,0 +1,9 @@
+#3
+
+string=input('Enter a string:')
+print('Orginal String is',string,'\nPrinting only even index chars')
+for i in range(len(string)):
+    
+    if i%2==0:
+        print(string[i])
+        
