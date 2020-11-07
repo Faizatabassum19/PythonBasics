@@ -1,0 +1,10 @@
+#1
+
+a= int(input('Enter a number:'))
+b= int(input('ENter another number:'))
+p=a*b
+if p>1000:
+    s=a+b
+    print(s)
+else:
+    print(p)
