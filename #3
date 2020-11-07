@@ -1,4 +1,4 @@
-#3
+#Question 3: Given a string, display only those characters which are present at an even index number.
 
 string=input('Enter a string:')
 print('Orginal String is',string,'\nPrinting only even index chars')
